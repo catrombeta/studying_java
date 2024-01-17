@@ -1,0 +1,5 @@
+Nome do aluno: Caroline
+Nota 1: 15.0
+Nota 2: 15.0
+Nota 3: 15.0
+Média: 15.0
